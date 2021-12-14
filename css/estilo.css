@@ -39,15 +39,19 @@ a {
   color: #BAC5E2;
   font-family: caveat; }
 
-.texto--p {
+.texto--p, .textoNosotros {
   font-size: 20px;
   color: #BAC5E2;
   font-family: caveat;
   height: 100%;
   width: auto; }
 
+.textoNosotros {
+  font-size: 21px;
+  padding-bottom: 10px; }
+
 .titulo {
-  display: felx;
+  display: flex;
   font-size: 100px;
   color: #BAC5E2;
   font-family: caveat; }
@@ -105,11 +109,6 @@ body {
   color: #BAC5E2;
   font-family: caveat;
   padding: 20px; }
-
-.texto--p {
-  font-size: 20px;
-  color: #BAC5E2;
-  font-family: caveat; }
 
 .titulo {
   display: flex;
